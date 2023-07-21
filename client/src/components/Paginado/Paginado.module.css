@@ -1,0 +1,29 @@
+.paginado {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .paginado button {
+    padding: 10px 20px;
+    background-color: #ffcb05; /* Color de fondo del botón */
+    border: none;
+    border-radius: 5px;
+    color: #222; /* Color del texto del botón */
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    margin: 0 10px;
+  }
+  
+  .paginado button:hover {
+    background-color: #11100e; 
+    color: #e611d4; 
+  }
+  
+  .paginado span {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  

@@ -1,0 +1,23 @@
+/* Estilos generales */
+body {
+    color: #fff; /* Color de texto blanco */
+  }
+  
+  /* Estilos específicos para el componente Landing */
+  .landing {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .landing h1 {
+    font-size: 48px;
+  font-weight: bold;
+  color: #ffcb05; /* Color amarillo */
+  margin-bottom: 20px;
+  }
+  
+  .landing h3 {
+    font-size: 24px;
+  color: #fff; /* Color blanco */
+  }
+  

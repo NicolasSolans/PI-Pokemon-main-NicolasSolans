@@ -1,0 +1,29 @@
+.nav {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background-color: #333333b4; 
+  }
+  
+  .nav a {
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  .nav button {
+    padding: 10px 20px;
+    background-color: #ffcd05; 
+    border: none;
+    border-radius: 5px;
+    color: #222; 
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+
+  }
+  
+  .nav button:hover {
+    background-color: #11100e; 
+    color: #e611d4; 
+  }
+  

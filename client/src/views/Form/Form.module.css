@@ -1,0 +1,47 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .form h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .form label {
+    font-weight: bold;
+  }
+  
+  .form input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .form p {
+    background-color: rgba(0, 0, 0, 0.74); /* Fondo con transparencia roja */
+  color: #ff0000;
+  margin-bottom: 10px;
+  padding: 10px 5%; /* Espacio interno para el texto */
+  }
+  
+  .form button {
+    padding: 10px 20px;
+    background-color: #ffcb05; /* Color de fondo del botón */
+    border: none;
+    border-radius: 5px;
+    color: #222; /* Color del texto del botón */
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .form button:hover {
+    background-color: #11100e; 
+    color: #e611d4; 
+  }
+  
